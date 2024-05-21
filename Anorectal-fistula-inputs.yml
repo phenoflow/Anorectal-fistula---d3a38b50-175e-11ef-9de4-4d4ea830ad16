@@ -1,0 +1,42 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/anorectal-fistula-fistulain-ano---primary.py
+inputModule3:
+  class: File
+  path: python/anorectal-fistula---primary.py
+inputModule4:
+  class: File
+  path: python/anorectal-fistula-fissure---primary.py
+inputModule5:
+  class: File
+  path: python/anorectal-fistula-nos---primary.py
+inputModule6:
+  class: File
+  path: python/anorectal-fistula-laying---primary.py
+inputModule7:
+  class: File
+  path: python/anorectal-fistula-excision---primary.py
+inputModule8:
+  class: File
+  path: python/anorectal-fistula-fistulography---primary.py
+inputModule9:
+  class: File
+  path: python/fistula---primary.py
+inputModule10:
+  class: File
+  path: python/anorectal-fistula-repair---primary.py
+inputModule11:
+  class: File
+  path: python/anorectal-fistula-track---primary.py
+inputModule12:
+  class: File
+  path: python/anorectal-fistula-procedure---primary.py
+inputModule13:
+  class: File
+  path: python/output-cases.py
